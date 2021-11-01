@@ -18,5 +18,5 @@ Tensorflow, Keras, Sklearn, XGBoost
 
 ## Methods
 
-I used pre-trained EfficientNetB2 model combined with neural network, supporting vector regression and boosted regression.
+I used pre-trained Resnet152_Top_ImageNet model combined with neural network, supporting vector regression and boosted regression.
 The final Pawpularity was obtained based on the weighted sum of predictions from three methods.
